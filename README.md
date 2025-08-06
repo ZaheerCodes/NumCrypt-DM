@@ -2,7 +2,6 @@
 
 **NumCrypt** is a console-based mini project that lets you explore number systems and basic encryption using ASCII. Built as part of a first-semester university assignment, this tool converts between **binary**, **decimal**, **octal**, and **hexadecimal** systems and lets you encrypt and decrypt text messages by converting characters to ASCII and encoding them into your chosen number base.
 
----
 
 ## 🚀 Features
 
@@ -15,7 +14,6 @@
 - 🔄 **Decimal-centered conversion logic** to support any-base to any-base conversion without adding any new function/logic.
 - 🧠 **No built-in functions** by adding custom built versions of `stringLength`, `reverseString`, `stringToInt`, and `intToString`.
 
----
 
 ## 🧩 Project Structure
 
@@ -42,7 +40,6 @@ The project has **three main sections**:
 - The system converts it to the other three number systems.
 - Supports up to 63-bit binary numbers.
 
----
 
 ## 🔧 Technical Design
 
@@ -59,7 +56,6 @@ The project has **three main sections**:
   - `stringToInt()` – converts numeric string to integer.
   - `intToString()` – converts integer to string.
 
----
 
 ## 📦 Limitations & Notes
 
@@ -69,7 +65,6 @@ The project has **three main sections**:
 - No GUI — purely console-driven interaction.
 - Ideal for **learning** and **demonstrating** how number systems and ASCII encoding work.
 
----
 
 ## 🧠 Motivation
 
